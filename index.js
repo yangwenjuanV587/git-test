@@ -1,5 +1,7 @@
 //软件发布管理 供应商代码维护api
 
+//验证远程代码仓库拉取功能
+
 import request from '#/router/axios'
 
 // 分页 列表查询
