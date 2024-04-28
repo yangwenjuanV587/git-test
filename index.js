@@ -2,6 +2,8 @@
 
 //验证远程代码仓库拉取功能
 
+//验证免密登录功能
+
 import request from '#/router/axios'
 
 // 分页 列表查询
